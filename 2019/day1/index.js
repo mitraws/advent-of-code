@@ -2,7 +2,7 @@
 // round down
 // -2
 
-import fs from 'fs'; 
+import fs from 'fs';
 
 // Specify the path to your file
 const filePath = './input.txt';
